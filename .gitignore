@@ -1,0 +1,24 @@
+# Credenciales y datos personales (NUNCA subir)
+.env
+.env.*
+!.env.example
+*.csv
+SIMCA_*.html
+NOTAS.txt
+PENSUM.txt
+CODIGO_DEMO.html
+snapshot_academico*.json
+simca-respaldo*.json
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+dist/
+# Node / Next
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+.vercel
