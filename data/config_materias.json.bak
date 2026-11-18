@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "revision": 4,
+  "actualizado": "2026-11-12T15:38:46",
+  "materias": {
+    "32514": {
+      "aliases": [
+        "Opción de Grado - Trabajo de Investigación"
+      ],
+      "prereqs_extra": [],
+      "prereqs_removidos": []
+    },
+    "21505": {
+      "aliases": [
+        "Lecto-escritura"
+      ],
+      "prereqs_extra": [],
+      "prereqs_removidos": []
+    }
+  },
+  "asignaciones": {
+    "13635": {
+      "tipo": "requisito_grado",
+      "nombre": "Prueba de Suficiencia en Idioma Extranjero",
+      "requisito": "Prueba de Suficiencia en Idioma Extranjero",
+      "grupo": ""
+    },
+    "M34811": {
+      "tipo": "requisito_grado",
+      "nombre": "Inglés 3 - B1",
+      "requisito": "Prueba de Suficiencia en Idioma Extranjero",
+      "grupo": ""
+    }
+  }
+}

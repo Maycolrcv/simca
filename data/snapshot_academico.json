@@ -1,0 +1,1358 @@
+{
+  "version": 1,
+  "generado": "2026-11-13T14:42:15",
+  "estudiante": {
+    "nombres": "RIVERA LÓPEZ SEBASTIAN",
+    "programa": "Administración de Empresas",
+    "promedio_carrera": 3.107,
+    "semestre": "6",
+    "promedio_semestre_anterior": 3.03,
+    "estado": "ACTIVO"
+  },
+  "pensum": [
+    {
+      "id": "21590",
+      "codigo": "21590",
+      "nombre": "Electiva Fish - I",
+      "creditos": 2,
+      "semestre": 0,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "21591",
+      "codigo": "EFISH2",
+      "nombre": "Electiva Fish - II",
+      "creditos": 2,
+      "semestre": 0,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "21592",
+      "codigo": "EFISH3",
+      "nombre": "Electiva Fish - III",
+      "creditos": 2,
+      "semestre": 0,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "33956",
+      "codigo": "M33956",
+      "nombre": "Electiva-Complementaria 1",
+      "creditos": 3,
+      "semestre": 0,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "33957",
+      "codigo": "M33957",
+      "nombre": "Electiva-Complementaria 2",
+      "creditos": 3,
+      "semestre": 0,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "33958",
+      "codigo": "M33958",
+      "nombre": "Electiva-Complementaria 3",
+      "creditos": 3,
+      "semestre": 0,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "33959",
+      "codigo": "M33959",
+      "nombre": "Electiva-Complementaria 4",
+      "creditos": 3,
+      "semestre": 0,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "33961",
+      "codigo": "M33961",
+      "nombre": "Electiva-Complementaria 5",
+      "creditos": 3,
+      "semestre": 0,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "33962",
+      "codigo": "M33962",
+      "nombre": "Electiva-Complementaria 6",
+      "creditos": 3,
+      "semestre": 0,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "33963",
+      "codigo": "M33963",
+      "nombre": "Electiva-Complementaria 7",
+      "creditos": 3,
+      "semestre": 0,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "33964",
+      "codigo": "M33964",
+      "nombre": "Electiva-Complementaria 8",
+      "creditos": 3,
+      "semestre": 0,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "33965",
+      "codigo": "M33965",
+      "nombre": "Electiva-Complementaria 9",
+      "creditos": 3,
+      "semestre": 0,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29286",
+      "codigo": "A25014",
+      "nombre": "Constitución Política y Democracia",
+      "creditos": 2,
+      "semestre": 1,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29284",
+      "codigo": "A25011",
+      "nombre": "Fundamentos de Administración",
+      "creditos": 3,
+      "semestre": 1,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29285",
+      "codigo": "A25012",
+      "nombre": "Fundamentos de Contabilidad",
+      "creditos": 3,
+      "semestre": 1,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "21505",
+      "codigo": "21505",
+      "nombre": "Lectura y Escritura",
+      "creditos": 2,
+      "semestre": 1,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29288",
+      "codigo": "A25016",
+      "nombre": "Teoría y Fundamentos Matemáticos",
+      "creditos": 3,
+      "semestre": 1,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29290",
+      "codigo": "A25022",
+      "nombre": "Costos y Presupuesto",
+      "creditos": 3,
+      "semestre": 2,
+      "prerrequisitos": [
+        {
+          "id": "29285",
+          "codigo": "A25012",
+          "nombre": "Fundamentos de Contabilidad"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "29291",
+      "codigo": "A25024",
+      "nombre": "Fundamentos de Cálculo",
+      "creditos": 3,
+      "semestre": 2,
+      "prerrequisitos": [
+        {
+          "id": "29288",
+          "codigo": "A25016",
+          "nombre": "Teoría y Fundamentos Matemáticos"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "29292",
+      "codigo": "A25025",
+      "nombre": "Fundamentos de Economía",
+      "creditos": 3,
+      "semestre": 2,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29301",
+      "codigo": "A25043",
+      "nombre": "Fundamentos de Mercadeo",
+      "creditos": 3,
+      "semestre": 2,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29298",
+      "codigo": "A25023",
+      "nombre": "Contexto Regional",
+      "creditos": 2,
+      "semestre": 3,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29287",
+      "codigo": "A25015",
+      "nombre": "Epistemología de las Ciencias Sociales",
+      "creditos": 2,
+      "semestre": 3,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29296",
+      "codigo": "A25034",
+      "nombre": "Estadística Descriptiva",
+      "creditos": 3,
+      "semestre": 3,
+      "prerrequisitos": [
+        {
+          "id": "29291",
+          "codigo": "A25024",
+          "nombre": "Fundamentos de Cálculo"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "29297",
+      "codigo": "A25035",
+      "nombre": "Microeconomía",
+      "creditos": 3,
+      "semestre": 3,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29289",
+      "codigo": "A25021",
+      "nombre": "Teorías Clásicas Organizacionales",
+      "creditos": 3,
+      "semestre": 3,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29300",
+      "codigo": "A25042",
+      "nombre": "Comportamiento Organizacional",
+      "creditos": 3,
+      "semestre": 4,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29302",
+      "codigo": "A25044",
+      "nombre": "Estadística Inferencial",
+      "creditos": 3,
+      "semestre": 4,
+      "prerrequisitos": [
+        {
+          "id": "29296",
+          "codigo": "A25034",
+          "nombre": "Estadística Descriptiva"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "29303",
+      "codigo": "A25045",
+      "nombre": "Macroeconomía",
+      "creditos": 3,
+      "semestre": 4,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29294",
+      "codigo": "A25032",
+      "nombre": "Metodología de la Investigación I",
+      "creditos": 2,
+      "semestre": 4,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29293",
+      "codigo": "A25031",
+      "nombre": "Teorías Contempóraneas Organizacionales",
+      "creditos": 3,
+      "semestre": 4,
+      "prerrequisitos": [
+        {
+          "id": "29289",
+          "codigo": "A25021",
+          "nombre": "Teorías Clásicas Organizacionales"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "29306",
+      "codigo": "A25053",
+      "nombre": "Gerencia del Talento Humano",
+      "creditos": 3,
+      "semestre": 5,
+      "prerrequisitos": [
+        {
+          "id": "29300",
+          "codigo": "A25042",
+          "nombre": "Comportamiento Organizacional"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "29295",
+      "codigo": "A25033",
+      "nombre": "Identificación de Proyectos",
+      "creditos": 3,
+      "semestre": 5,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29305",
+      "codigo": "A25052",
+      "nombre": "Ingeniería Financiera",
+      "creditos": 3,
+      "semestre": 5,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29307",
+      "codigo": "A25054",
+      "nombre": "Investigación de Mercados",
+      "creditos": 3,
+      "semestre": 5,
+      "prerrequisitos": [
+        {
+          "id": "29301",
+          "codigo": "A25043",
+          "nombre": "Fundamentos de Mercadeo"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "29308",
+      "codigo": "A25055",
+      "nombre": "Investigación de Operaciones",
+      "creditos": 3,
+      "semestre": 5,
+      "prerrequisitos": [
+        {
+          "id": "29291",
+          "codigo": "A25024",
+          "nombre": "Fundamentos de Cálculo"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "29299",
+      "codigo": "A25041",
+      "nombre": "Teoría de la Planeación y Control",
+      "creditos": 3,
+      "semestre": 5,
+      "prerrequisitos": [
+        {
+          "id": "29293",
+          "codigo": "A25031",
+          "nombre": "Teorías Contempóraneas Organizacionales"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "29318",
+      "codigo": "A25062",
+      "nombre": "Derecho Empresarial",
+      "creditos": 3,
+      "semestre": 6,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "29319",
+      "codigo": "A25063",
+      "nombre": "Desarrollo Humano",
+      "creditos": 2,
+      "semestre": 6,
+      "prerrequisitos": [
+        {
+          "id": "29306",
+          "codigo": "A25053",
+          "nombre": "Gerencia del Talento Humano"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "29320",
+      "codigo": "A25064",
+      "nombre": "Diseño de Sistemas de Producción",
+      "creditos": 3,
+      "semestre": 6,
+      "prerrequisitos": [
+        {
+          "id": "29308",
+          "codigo": "A25055",
+          "nombre": "Investigación de Operaciones"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "29304",
+      "codigo": "A25051",
+      "nombre": "Diseño Organizacional",
+      "creditos": 3,
+      "semestre": 6,
+      "prerrequisitos": [
+        {
+          "id": "29299",
+          "codigo": "A25041",
+          "nombre": "Teoría de la Planeación y Control"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "29317",
+      "codigo": "A25061",
+      "nombre": "Gerencia Financiera",
+      "creditos": 3,
+      "semestre": 6,
+      "prerrequisitos": [
+        {
+          "id": "29290",
+          "codigo": "A25022",
+          "nombre": "Costos y Presupuesto"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "29321",
+      "codigo": "A25065",
+      "nombre": "Gestión de Innovación",
+      "creditos": 2,
+      "semestre": 6,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "31601",
+      "codigo": "31601",
+      "nombre": "Formulación y Evaluación de Proyectos",
+      "creditos": 3,
+      "semestre": 7,
+      "prerrequisitos": [
+        {
+          "id": "29320",
+          "codigo": "A25064",
+          "nombre": "Diseño de Sistemas de Producción"
+        },
+        {
+          "id": "29319",
+          "codigo": "A25063",
+          "nombre": "Desarrollo Humano"
+        },
+        {
+          "id": "29321",
+          "codigo": "A25065",
+          "nombre": "Gestión de Innovación"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "31599",
+      "codigo": "31599",
+      "nombre": "Gerencia",
+      "creditos": 3,
+      "semestre": 7,
+      "prerrequisitos": [
+        {
+          "id": "29304",
+          "codigo": "A25051",
+          "nombre": "Diseño Organizacional"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "31603",
+      "codigo": "31603",
+      "nombre": "Gerencia de la Producción",
+      "creditos": 2,
+      "semestre": 7,
+      "prerrequisitos": [
+        {
+          "id": "29320",
+          "codigo": "A25064",
+          "nombre": "Diseño de Sistemas de Producción"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "31602",
+      "codigo": "31602",
+      "nombre": "Gerencia de Mercadeo",
+      "creditos": 3,
+      "semestre": 7,
+      "prerrequisitos": [
+        {
+          "id": "29307",
+          "codigo": "A25054",
+          "nombre": "Investigación de Mercados"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "31600",
+      "codigo": "31600",
+      "nombre": "Metodología de la Investigación II",
+      "creditos": 2,
+      "semestre": 7,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "31604",
+      "codigo": "31604",
+      "nombre": "Administracion Pública",
+      "creditos": 3,
+      "semestre": 8,
+      "prerrequisitos": [
+        {
+          "id": "29304",
+          "codigo": "A25051",
+          "nombre": "Diseño Organizacional"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "31608",
+      "codigo": "M31608",
+      "nombre": "Etica Profesional",
+      "creditos": 2,
+      "semestre": 8,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "31607",
+      "codigo": "M31607",
+      "nombre": "Gerencia Estrategica",
+      "creditos": 3,
+      "semestre": 8,
+      "prerrequisitos": [
+        {
+          "id": "31602",
+          "codigo": "31602",
+          "nombre": "Gerencia de Mercadeo"
+        },
+        {
+          "id": "31603",
+          "codigo": "31603",
+          "nombre": "Gerencia de la Producción"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "31606",
+      "codigo": "M31606",
+      "nombre": "Optativa Profesional I",
+      "creditos": 3,
+      "semestre": 8,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "31605",
+      "codigo": "31605",
+      "nombre": "Gerencia de Proyectos",
+      "creditos": 3,
+      "semestre": 9,
+      "prerrequisitos": [
+        {
+          "id": "31599",
+          "codigo": "31599",
+          "nombre": "Gerencia"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "32510",
+      "codigo": "M32510",
+      "nombre": "Optativa Profesional II",
+      "creditos": 3,
+      "semestre": 9,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "32511",
+      "codigo": "M32511",
+      "nombre": "Practica Organizacional",
+      "creditos": 3,
+      "semestre": 9,
+      "prerrequisitos": [
+        {
+          "id": "31603",
+          "codigo": "31603",
+          "nombre": "Gerencia de la Producción"
+        },
+        {
+          "id": "31602",
+          "codigo": "31602",
+          "nombre": "Gerencia de Mercadeo"
+        },
+        {
+          "id": "31601",
+          "codigo": "31601",
+          "nombre": "Formulación y Evaluación de Proyectos"
+        },
+        {
+          "id": "31599",
+          "codigo": "31599",
+          "nombre": "Gerencia"
+        },
+        {
+          "id": "31600",
+          "codigo": "31600",
+          "nombre": "Metodología de la Investigación II"
+        },
+        {
+          "id": "31607",
+          "codigo": "M31607",
+          "nombre": "Gerencia Estrategica"
+        },
+        {
+          "id": "31606",
+          "codigo": "M31606",
+          "nombre": "Optativa Profesional I"
+        },
+        {
+          "id": "31604",
+          "codigo": "31604",
+          "nombre": "Administracion Pública"
+        },
+        {
+          "id": "31608",
+          "codigo": "M31608",
+          "nombre": "Etica Profesional"
+        }
+      ],
+      "correquisitos": []
+    },
+    {
+      "id": "32512",
+      "codigo": "M32512",
+      "nombre": "Sistemas de Informacion Gerencial",
+      "creditos": 2,
+      "semestre": 9,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "32513",
+      "codigo": "M32513",
+      "nombre": "Optativa Profesional III",
+      "creditos": 3,
+      "semestre": 10,
+      "prerrequisitos": [],
+      "correquisitos": []
+    },
+    {
+      "id": "32514",
+      "codigo": "M32514",
+      "nombre": "Trabajo de grado",
+      "creditos": 8,
+      "semestre": 10,
+      "prerrequisitos": [],
+      "correquisitos": []
+    }
+  ],
+  "notas": [
+    {
+      "periodo": "2023.1",
+      "id": "34346",
+      "nombre": "Electiva - Inducción a la vida universitaria",
+      "creditos": 3,
+      "semestre_cursado": 1,
+      "nota": 4.4,
+      "definitiva": 4.4,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2023.1",
+      "id": "29285",
+      "nombre": "Fundamentos de Contabilidad",
+      "creditos": 3,
+      "semestre_cursado": 1,
+      "nota": 3.9,
+      "definitiva": 3.9,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2023.1",
+      "id": "29286",
+      "nombre": "Constitución Política y Democracia",
+      "creditos": 2,
+      "semestre_cursado": 1,
+      "nota": 3.2,
+      "definitiva": 3.2,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2023.1",
+      "id": "21505",
+      "nombre": "Lectura y Escritura",
+      "creditos": 2,
+      "semestre_cursado": 1,
+      "nota": 3.8,
+      "definitiva": 3.8,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2023.1",
+      "id": "29288",
+      "nombre": "Teoría y Fundamentos Matemáticos",
+      "creditos": 3,
+      "semestre_cursado": 1,
+      "nota": 2.5,
+      "definitiva": 3.0,
+      "habilitacion": 3.0,
+      "tipo": "HABILITACION"
+    },
+    {
+      "periodo": "2023.1",
+      "id": "29284",
+      "nombre": "Fundamentos de Administración",
+      "creditos": 3,
+      "semestre_cursado": 1,
+      "nota": 3.7,
+      "definitiva": 3.7,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2023.2",
+      "id": "29301",
+      "nombre": "Fundamentos de Mercadeo",
+      "creditos": 3,
+      "semestre_cursado": 2,
+      "nota": 2.9,
+      "definitiva": 3.5,
+      "habilitacion": 3.5,
+      "tipo": "HABILITACION"
+    },
+    {
+      "periodo": "2023.2",
+      "id": "33558",
+      "nombre": "Electiva - Gerencia Tributaria",
+      "creditos": 3,
+      "semestre_cursado": 2,
+      "nota": 3.7,
+      "definitiva": 3.7,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2023.2",
+      "id": "29291",
+      "nombre": "Fundamentos de Cálculo",
+      "creditos": 3,
+      "semestre_cursado": 2,
+      "nota": 2.2,
+      "definitiva": 3.0,
+      "habilitacion": 3.0,
+      "tipo": "HABILITACION"
+    },
+    {
+      "periodo": "2023.2",
+      "id": "29292",
+      "nombre": "Fundamentos de Economía",
+      "creditos": 3,
+      "semestre_cursado": 2,
+      "nota": 3.5,
+      "definitiva": 3.5,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2023.2",
+      "id": "29290",
+      "nombre": "Costos y Presupuesto",
+      "creditos": 3,
+      "semestre_cursado": 2,
+      "nota": 3.5,
+      "definitiva": 3.5,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2024.1",
+      "id": "29297",
+      "nombre": "Microeconomía",
+      "creditos": 3,
+      "semestre_cursado": 3,
+      "nota": 3.0,
+      "definitiva": 3.0,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2024.1",
+      "id": "29298",
+      "nombre": "Contexto Regional",
+      "creditos": 2,
+      "semestre_cursado": 3,
+      "nota": 2.2,
+      "definitiva": 2.2,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2024.1",
+      "id": "29300",
+      "nombre": "Comportamiento Organizacional",
+      "creditos": 3,
+      "semestre_cursado": 4,
+      "nota": 2.7,
+      "definitiva": 3.7,
+      "habilitacion": 3.7,
+      "tipo": "HABILITACION"
+    },
+    {
+      "periodo": "2024.1",
+      "id": "29287",
+      "nombre": "Epistemología de las Ciencias Sociales",
+      "creditos": 2,
+      "semestre_cursado": 3,
+      "nota": 3.5,
+      "definitiva": 3.5,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2024.2",
+      "id": "29289",
+      "nombre": "Teorías Clásicas Organizacionales",
+      "creditos": 3,
+      "semestre_cursado": 3,
+      "nota": 4.1,
+      "definitiva": 4.1,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2024.2",
+      "id": "25248",
+      "nombre": "Estadística Descriptiva",
+      "creditos": 3,
+      "semestre_cursado": 3,
+      "nota": 2.7,
+      "definitiva": 2.0,
+      "habilitacion": 2.0,
+      "tipo": "HABILITACION"
+    },
+    {
+      "periodo": "2024.2",
+      "id": "29307",
+      "nombre": "Investigación de Mercados",
+      "creditos": 3,
+      "semestre_cursado": 5,
+      "nota": 2.0,
+      "definitiva": 2.0,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2024.2",
+      "id": "29298",
+      "nombre": "Contexto Regional",
+      "creditos": 2,
+      "semestre_cursado": 3,
+      "nota": 2.5,
+      "definitiva": 3.6,
+      "habilitacion": 3.6,
+      "tipo": "HABILITACION"
+    },
+    {
+      "periodo": "2024.2",
+      "id": "29306",
+      "nombre": "Gerencia del Talento Humano",
+      "creditos": 3,
+      "semestre_cursado": 5,
+      "nota": 3.9,
+      "definitiva": 3.9,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2025.1",
+      "id": "29293",
+      "nombre": "Teorías Contempóraneas Organizacionales",
+      "creditos": 3,
+      "semestre_cursado": 4,
+      "nota": 1.6,
+      "definitiva": 1.6,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2025.1",
+      "id": "29294",
+      "nombre": "Metodología de la Investigación I",
+      "creditos": 2,
+      "semestre_cursado": 4,
+      "nota": 0.0,
+      "definitiva": 0.0,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2025.1",
+      "id": "29303",
+      "nombre": "Macroeconomía",
+      "creditos": 3,
+      "semestre_cursado": 4,
+      "nota": 1.9,
+      "definitiva": 1.9,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2025.1",
+      "id": "29296",
+      "nombre": "Estadística Descriptiva",
+      "creditos": 3,
+      "semestre_cursado": 3,
+      "nota": 3.4,
+      "definitiva": 3.4,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2025.1",
+      "id": "29295",
+      "nombre": "Identificación de Proyectos",
+      "creditos": 3,
+      "semestre_cursado": 5,
+      "nota": 0.0,
+      "definitiva": 0.0,
+      "habilitacion": null,
+      "tipo": "PIERDE POR INASISTENCIA"
+    },
+    {
+      "periodo": "2025.2",
+      "id": "29318",
+      "nombre": "Derecho Empresarial",
+      "creditos": 3,
+      "semestre_cursado": 6,
+      "nota": 4.7,
+      "definitiva": 4.7,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2025.2",
+      "id": "29293",
+      "nombre": "Teorías Contempóraneas Organizacionales",
+      "creditos": 3,
+      "semestre_cursado": 4,
+      "nota": 4.4,
+      "definitiva": 4.4,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2025.2",
+      "id": "35213",
+      "nombre": "Electiva - Agilismo Organizacional",
+      "creditos": 3,
+      "semestre_cursado": 5,
+      "nota": 4.4,
+      "definitiva": 4.4,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2025.2",
+      "id": "29317",
+      "nombre": "Gerencia Financiera",
+      "creditos": 3,
+      "semestre_cursado": 6,
+      "nota": 3.2,
+      "definitiva": 3.2,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2025.2",
+      "id": "29305",
+      "nombre": "Ingeniería Financiera",
+      "creditos": 3,
+      "semestre_cursado": 5,
+      "nota": 0.9,
+      "definitiva": 0.9,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2025.2",
+      "id": "29295",
+      "nombre": "Identificación de Proyectos",
+      "creditos": 3,
+      "semestre_cursado": 5,
+      "nota": 4.0,
+      "definitiva": 4.0,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2025.2",
+      "id": "31608",
+      "nombre": "Etica Profesional",
+      "creditos": 2,
+      "semestre_cursado": 8,
+      "nota": 4.4,
+      "definitiva": 4.4,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2026.1",
+      "id": "29307",
+      "nombre": "Investigación de Mercados",
+      "creditos": 3,
+      "semestre_cursado": 5,
+      "nota": 3.7,
+      "definitiva": 3.7,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2026.1",
+      "id": "29303",
+      "nombre": "Macroeconomía",
+      "creditos": 3,
+      "semestre_cursado": 4,
+      "nota": 2.2,
+      "definitiva": 3.5,
+      "habilitacion": 3.5,
+      "tipo": "HABILITACION"
+    },
+    {
+      "periodo": "2026.1",
+      "id": "36001",
+      "nombre": "Electiva - Gerencia para la Prevención de Riesgos Laborales",
+      "creditos": 3,
+      "semestre_cursado": 5,
+      "nota": 1.2,
+      "definitiva": 1.2,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2026.1",
+      "id": "29302",
+      "nombre": "Estadística Inferencial",
+      "creditos": 3,
+      "semestre_cursado": 4,
+      "nota": 3.2,
+      "definitiva": 3.2,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2026.1",
+      "id": "29305",
+      "nombre": "Ingeniería Financiera",
+      "creditos": 3,
+      "semestre_cursado": 5,
+      "nota": 2.1,
+      "definitiva": 3.2,
+      "habilitacion": 3.2,
+      "tipo": "HABILITACION"
+    },
+    {
+      "periodo": "2026.1",
+      "id": "29299",
+      "nombre": "Teoría de la Planeación y Control",
+      "creditos": 3,
+      "semestre_cursado": 5,
+      "nota": 3.5,
+      "definitiva": 3.5,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2026.1",
+      "id": "35211",
+      "nombre": "Electiva - Finanzas Conductuales y Neurofinanzas",
+      "creditos": 3,
+      "semestre_cursado": 5,
+      "nota": 4.7,
+      "definitiva": 4.7,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2026.1",
+      "id": "29308",
+      "nombre": "Investigación de Operaciones",
+      "creditos": 3,
+      "semestre_cursado": 5,
+      "nota": 3.1,
+      "definitiva": 3.1,
+      "habilitacion": null,
+      "tipo": ""
+    },
+    {
+      "periodo": "2026.1",
+      "id": "29294",
+      "nombre": "Metodología de la Investigación I",
+      "creditos": 2,
+      "semestre_cursado": 4,
+      "nota": 1.2,
+      "definitiva": 1.2,
+      "habilitacion": null,
+      "tipo": ""
+    }
+  ],
+  "promedios_periodo": {
+    "2023.1": 3.67,
+    "2023.2": 3.44,
+    "2024.1": 3.1,
+    "2024.2": 3.12,
+    "2025.1": 1.38,
+    "2025.2": 3.71,
+    "2026.1": 3.03
+  },
+  "requisitos_grado": [
+    {
+      "periodo": "2024.1",
+      "id": "7103",
+      "nombre": "AFF- Tenis de mesa recreativo",
+      "creditos": null,
+      "definitiva": "N",
+      "aprobado": false
+    }
+  ],
+  "requisitos_grado_oficiales": [
+    {
+      "codigo": "21793",
+      "nombre": "Actividad Física Formativa"
+    },
+    {
+      "codigo": "21792",
+      "nombre": "ECAES"
+    },
+    {
+      "codigo": "13635",
+      "nombre": "Prueba de Suficiencia en Idioma Extranjero"
+    }
+  ],
+  "matriculadas": [
+    {
+      "periodo": "2026.2",
+      "codigo": "A25032",
+      "nombre": "Metodología de la Investigación I",
+      "semestre": 4,
+      "seccion": "A",
+      "id_grupo": "174354",
+      "docentes": "MARTHA LUCIA ACOSTA RANGEL",
+      "repeticion": 2,
+      "horarios": [
+        {
+          "dia": "VIERNES",
+          "horario": "14:00-18:00",
+          "salon": "Salón 204 P3-Contables",
+          "ubicacion": "FACULTAD DE CIENCIAS CONTABLES ECONOMICAS Y ADMINISTRATIVAS"
+        }
+      ]
+    },
+    {
+      "periodo": "2026.2",
+      "codigo": "A25063",
+      "nombre": "Desarrollo Humano",
+      "semestre": 6,
+      "seccion": "A",
+      "id_grupo": "174374",
+      "docentes": "ELIZABETH TORO CHALA",
+      "repeticion": 0,
+      "horarios": [
+        {
+          "dia": "LUNES",
+          "horario": "11:00-13:00",
+          "salon": "Salón 301 P3-Contables",
+          "ubicacion": "FACULTAD DE CIENCIAS CONTABLES ECONOMICAS Y ADMINISTRATIVAS"
+        },
+        {
+          "dia": "MIERCOLES",
+          "horario": "11:00-13:00",
+          "salon": "Salón 301 P3-Contables",
+          "ubicacion": "FACULTAD DE CIENCIAS CONTABLES ECONOMICAS Y ADMINISTRATIVAS"
+        }
+      ]
+    },
+    {
+      "periodo": "2026.2",
+      "codigo": "A25064",
+      "nombre": "Diseño de Sistemas de Producción",
+      "semestre": 6,
+      "seccion": "B",
+      "id_grupo": "174376",
+      "docentes": "LUIS FELIPE SEGURA QUINTERO",
+      "repeticion": 0,
+      "horarios": [
+        {
+          "dia": "JUEVES",
+          "horario": "14:00-18:00",
+          "salon": "Salón 301 P3-Contables",
+          "ubicacion": "FACULTAD DE CIENCIAS CONTABLES ECONOMICAS Y ADMINISTRATIVAS"
+        }
+      ]
+    },
+    {
+      "periodo": "2026.2",
+      "codigo": "A25051",
+      "nombre": "Diseño Organizacional",
+      "semestre": 6,
+      "seccion": "A",
+      "id_grupo": "174377",
+      "docentes": "CATALINA RODRIGUEZ RAMIREZ",
+      "repeticion": 0,
+      "horarios": [
+        {
+          "dia": "VIERNES",
+          "horario": "07:00-11:00",
+          "salon": "Salón 104 P3-Contables",
+          "ubicacion": "FACULTAD DE CIENCIAS CONTABLES ECONOMICAS Y ADMINISTRATIVAS"
+        }
+      ]
+    },
+    {
+      "periodo": "2026.2",
+      "codigo": "A25065",
+      "nombre": "Gestión de Innovación",
+      "semestre": 6,
+      "seccion": "A",
+      "id_grupo": "174380",
+      "docentes": "ELENA RODRIGUEZ MENDEZ",
+      "repeticion": 0,
+      "horarios": [
+        {
+          "dia": "LUNES",
+          "horario": "14:00-18:00",
+          "salon": "Salón 203 P3-Contables",
+          "ubicacion": "FACULTAD DE CIENCIAS CONTABLES ECONOMICAS Y ADMINISTRATIVAS"
+        }
+      ]
+    },
+    {
+      "periodo": "2026.2",
+      "codigo": "31602",
+      "nombre": "Gerencia de Mercadeo",
+      "semestre": 7,
+      "seccion": "A",
+      "id_grupo": "174388",
+      "docentes": "JASSER FERNANDO QUIROZ QUINTERO",
+      "repeticion": 0,
+      "horarios": [
+        {
+          "dia": "MARTES",
+          "horario": "09:00-13:00",
+          "salon": "Salón 301 P3-Contables",
+          "ubicacion": "FACULTAD DE CIENCIAS CONTABLES ECONOMICAS Y ADMINISTRATIVAS"
+        }
+      ]
+    },
+    {
+      "periodo": "2026.2",
+      "codigo": "M35565",
+      "nombre": "Electiva - Gerencia, Talento Humano y Neurociencia",
+      "semestre": null,
+      "seccion": "A",
+      "id_grupo": "174509",
+      "docentes": "MERCY JOHANNA VALENCIA CAICEDO",
+      "repeticion": 1,
+      "horarios": [
+        {
+          "dia": "JUEVES",
+          "horario": "09:00-12:00",
+          "salon": "Salón 104 P3-Contables",
+          "ubicacion": "FACULTAD DE CIENCIAS CONTABLES ECONOMICAS Y ADMINISTRATIVAS"
+        }
+      ]
+    },
+    {
+      "periodo": "2026.2",
+      "codigo": "M33556",
+      "nombre": "Electiva - Planeación en entidades Públicas.",
+      "semestre": null,
+      "seccion": "A",
+      "id_grupo": "174515",
+      "docentes": "ISABEL CRISTINA CHAMORRO LOPEZ",
+      "repeticion": 0,
+      "horarios": [
+        {
+          "dia": "JUEVES",
+          "horario": "07:00-10:00",
+          "salon": "Salón 302 P3-Contables",
+          "ubicacion": "FACULTAD DE CIENCIAS CONTABLES ECONOMICAS Y ADMINISTRATIVAS"
+        }
+      ]
+    }
+  ],
+  "periodo_actual": "2026.2",
+  "matriculadas_cargadas": true,
+  "advertencias": []
+}
